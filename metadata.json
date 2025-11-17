@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Conversational Voice App",
+  "description": "An interactive web application that allows users to have real-time voice conversations with the Gemini AI model. It features live audio streaming, real-time transcription, and spoken responses from the AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
